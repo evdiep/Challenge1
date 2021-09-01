@@ -1,4 +1,4 @@
-# Challenge1
+# EGT Problem 1
 
 Requirements: 
 
